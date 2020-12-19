@@ -1,1 +1,1 @@
-EgorPavelyev.github.io
+https://egorpavelyev.github.io/index.html
